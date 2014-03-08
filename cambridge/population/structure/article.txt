@@ -11,4 +11,8 @@ Beyond the student bulge, there are some interesting things going on too - the m
 
 Here's a more detailed look at the gender balance. This graphic shows the male and female percentage of each year-group of Cambridge's population, according to the projections. Some of the "noise" in the data here is due to the rounding, but there are a few noteworthy features. The main student years, 19, 20 and 21, are almost exactly 50-50, but from 22 to the early 30s, there is a noticeable shift to the blue side, with 125 men for every 100 women in this age group. Is this the effect of gender bias in Cambridge's tech-heavy jobs market, or is something else going on? After the mid-30s, the picture is more or less balanced again until the 70s, when demographic factors starts to take their toll of the men. However, the Beach Boys' preferred ratio of two girls for every boy is not reached until age 87.
 
-As with many other things, Cambridge's population structure is quite different to that of the rest of the county. Here's what the picture looks like for
+As with many other things, Cambridge's population structure is quite different to that of the rest of the county. Here's what the picture looks like for Cambridgeshire excluding Cambridge:
+
+Firstly, there are a lot more people on this diagram - the rest of the county outnumbers Cambridge by nearly four to one. It's also noticeable that there's a dent rather than a bulge at the main student age group, reflecting people going away to University. The widest part of the diagram is for people in the late 40s, though there's also a sudden step at age 67 - this represents those born soon after the end of the Second World War.
+
+http://www.theguardian.com/education/datablog/2013/jan/29/how-many-men-and-women-are-studying-at-my-university

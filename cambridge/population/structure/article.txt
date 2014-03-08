@@ -1,0 +1,14 @@
+The Population Structure of Cambridge
+
+While I was researching my previous article on Cambridge's population growth, I found that the County Council's Research Group have some quite detailed projections about the structure of Cambridge's population, and if you ask them nicely, they will send you a spreadsheet. Indeed they are hoping to publish this sort of data more widely as part of the excellent Cambridgeshire Insight project. Thanks to Alan and Mike at the Research Group for sending me the data for this article.
+
+So, without further ado, here's what the population structure of Cambridge looks like. Boys on the left, girls on the right, and grouped into one-year bands by age, oldest at the top:
+
+
+Inevitably, I need to add a couple of caveats here. These numbers are the Research Group's projections for 2014, based their available data, with each number rounded to the nearest 50. So they won't be exactly correct, but they should be pretty close. As you can see, the overall impression is of a sort of wonky sword. The most prominent feature in the data is the cross-guard of the sword - the huge increase in the population at ages 19, 20 and 21. This of course represents the large number of students who come to Cambridge for three years, before mostly disappearing again. There are some other notable features, too - the handle of the sword curves gently inward, indicating that there are increasing numbers of children at younger ages - implying more pressure on the city's schools in years to come.
+
+Beyond the student bulge, there are some interesting things going on too - the most populous year-group here is at age 29, and there's a distinct imbalance, with men definitely outnumbering women - more on this in a moment. After the early 30s, the picture is one of gently dwindling numbers along the blade of the sword, and towards the top, women start to outnumber men, doing so quite decisively in the over-90s age group.
+
+Here's a more detailed look at the gender balance. This graphic shows the male and female percentage of each year-group of Cambridge's population, according to the projections. Some of the "noise" in the data here is due to the rounding, but there are a few noteworthy features. The main student years, 19, 20 and 21, are almost exactly 50-50, but from 22 to the early 30s, there is a noticeable shift to the blue side, with 125 men for every 100 women in this age group. Is this the effect of gender bias in Cambridge's tech-heavy jobs market, or is something else going on? After the mid-30s, the picture is more or less balanced again until the 70s, when demographic factors starts to take their toll of the men. However, the Beach Boys' preferred ratio of two girls for every boy is not reached until age 87.
+
+As with many other things, Cambridge's population structure is quite different to that of the rest of the county. Here's what the picture looks like for

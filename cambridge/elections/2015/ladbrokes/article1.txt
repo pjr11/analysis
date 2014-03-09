@@ -1,0 +1,9 @@
+Betting odds for the next Cambridge MP
+
+In January of 2013, Ladbrokes opened a market on the results of the next general election in the Cambridge constituency. They made Labour favourites to take the seat, at odds of 4/6 on, with the incumbent Lib Dems in second place at 6/4. The Conservatives, despite having come second last time, were a long way back at 20/1, with the Greens bringing up the rear at 50/1.
+
+About a month ago, Ladbrokes quietly adjusted their odds for the Cambridge constituency. The Lib Dems came in to 5/4, while Labour's odds lengthened to 4/5, though they remain odds-on favourites to take the seat. The Conservative and Green odds were unchanged. The shift in the Labour and Lib Dem odds might be in response to betting patterns, or simply Ladbrokes's interpretation of the political situation.
+
+With a bit of simple maths, we can turn these odds into an implied probability - the chance that Ladbrokes thinks each party has of winning. Here's what the graph looks like:
+
+It remains to be seen how the odds will shift between now and the General Election, which is scheduled for 7 May 2015, just 502 days from today.

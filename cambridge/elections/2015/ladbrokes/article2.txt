@@ -1,0 +1,12 @@
+Ladbrokes shift the odds on the next Cambridge MP
+
+Ladbrokes have once again adjusted the odds they are offering for the result in the Cambridge seat at the next General Election - and once again the change is encouraging for the incumbent, Julian Huppert, though he still isn't the favourite to win.
+
+It's only a small change, bringing the odds on a Lib Dem win down from 5/4 to 11/10, but it continues the trend of the odds shortening on a Lib Dem hold in Cambridge. Presumably this is in response to betting patterns, since there hasn't been very much change in national opinion polls over the last few months.
+
+Based on the odds, a bit of simple maths gives the implied probability of each party winning the seat. Here's what the graph looks like now:
+
+
+Since Labour are still at 4/5 in these latest odds, you might wonder why their implied chance of winning seems to have fallen a few percent. This is because the "overround" (representing the bookmaker's profit) has increased in these latest odds - see this spreadsheet for the details of the calculation.
+
+So the general picture, at least according to Ladbrokes, is of an increasingly close contest between Labour and the Lib Dems in Cambridge. Of course, a lot could happen in the 424 days that remain until the General Election, and it'll be interesting to see how the odds change (or not) as polling day approaches.

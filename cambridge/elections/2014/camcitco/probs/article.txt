@@ -1,0 +1,44 @@
+Modelling the Cambridge City Council elections
+
+In a few weeks, Cambridge voters will be going to the polls for the European Parliamentary elections, and also to elect one-third of the councillors on Cambridge City Council. I'll be looking at the European elections in a future post, but in this article I'm looking at what we can expect from the City Council elections.
+
+Because the City Council is elected by thirds, we already know the composition of two-thirds of the next Council. Here are the results of the last three City Council elections, which between them elected the present Council:
+
+As you can see, the Lib Dems performed strongly in the 2010 local elections, which were held on the same day as the General Election, but since then Labour has made gains as the Lib Dems have plunged in the national polls. The Lib Dems are currently clinging to power by their fingertips, thanks to the casting vote of Lib Dem mayor Paul Saunders. Here is the present composition of the council, with hollow blocks representing seats up for election this year:
+
+So as I've been saying for some time, it looks almost certain that the Lib Dems will finally lose control of the City Council this year, and very likely that Labour will get an outright majority. But how much chance do the Lib Dems have of avoiding the electoral tsunami that seems poised to sweep them from office? To try to answer that question, I've made a probability model of this year's elections, to get an idea of the range of likely outcomes. Here's how it works: for each of the city's 14 seats, I've chosen the two parties that I think have a realistic chance of winning, and made a guess at their chances of victory. I then consider all possible outcomes - with two options in each of 14 seats, there are 16,384 different combinations, each with its own (pretty tiny) probability. I then categorise each possible outcome and add up all the probabilities to get an overall result. If you're interested (and have some basic understanding of JavaScript) the source code is here. If none of this makes much sense, don't worry - it should be clearer from looking at the graphs below.
+
+Here's the input to the model - my guess at the two parties in contention in each seat, and the chance of each one winning:
+
+This is just based on my own guesses, from following Cambridge local politics for some years. In the last two Cambridge local elections, I've predicted 23 out of 28 seats correctly, but on the other hand I haven't done much canvassing lately, so take these numbers with a pinch of salt. I think Abbey, Cherry Hinton and Coleridge are safe for Labour, with virtually no danger from other parties. Arbury, King's Hedges and Petersfield are also almost certain Labour victories, despite the fact that all three have sitting Lib Dem councillors. Market, Romsey, Queen Edith's and both East and West Chesterton are the Lib-Lab battleground, with both parties having a reasonable chance of winning. Newnham is safer for the Lib Dems, but not completely. The Conservatives are challenging the Lib Dems in Trumpington. That just leaves Castle, which is harder to call - Independent John Hipkin won't be standing this year, as he already holds a seat, but he might support another Independent candidate.
+
+Now that we've decided on the model's input, let's give it a fresh cup of really hot tea and turn it on. After a little chugging and whirring, here's what it spits out:
+
+This graph shows the expected number of seats for each party. As you can see, the model thinks Labour will be the largest party, with somewhere between 21 and 27 seats, leaving the Lib Dems on 12 to 18 seats, and the Conservatives on either one or two. (I've left the Independents and Greens off the chart for clarity - they get approximately one and zero seats respectively). Here is the graph for the overall outcome:
+
+The model thinks that an outright Labour majority is virtually certain, with just a small possibility (1.9%) that Labour will end up on 21 seats, which would allow the other 21 councillors to combine with the outgoing Lib Dem mayor to elect a new non-Labour mayor and deprive Labour of outright control. The current mayor is up for election this year, but he would still retain his casting vote at the first meeting of the new Council even if he were to lose his seat. There are other possible outcomes giving No Overall Control (NOC) but they all have vanishingly small probabilities. The bottom line is: Labour almost certainly wins.
+
+If I were still a Lib Dem activist, I might not unreasonably feel a bit annoyed at this point. Here we are, I might think, wearing our knuckles to the bone knocking on doors all over the city, and risking laceration feeding Focus leaflets to hyperactive terriers through letterboxes, and some armchair commentator is smugly telling us that we're all doomed. It's a fair point. So let's put ourselves in the sandals (sorry) of an optimistic Liberal Democrat activist and feed the model some more pro-Lib-Dem input. Something like this:
+
+
+These numbers assume a stronger Lib Dem showing in the battleground wards, and give the defending Lib Dem councillors in Arbury, King's Hedges and Petersfield a better chance of hanging on. Meanwhile the Tory challenge fades in Trumpington, but somehow manages to challenge Labour more strongly in Cherry Hinton and Coleridge, as does a Green revival in Abbey. Here's what the model produces given this input:
+
+Labour are probably still ahead, with 17-24 seats against 14-21 for the Lib Dems, but the gap has narrowed considerably. The Conservatives do slightly better, but not much. In terms of overall outcomes, this is the picture:
+
+Even with such heavily pro-Lib-Dem input, a Labour majority is still the most likely outcome, though not by much. The knife-edge scenario where Labour win 21 seats is also quite possible, as is No Overall Control with Labour the largest party. However, even with these very optimistic Lib Dem assumptions, the model gives them just a 3% chance of retaining control.
+
+I also ran some "optimistic Labour" numbers through the model, but the output wasn't very different from the results for my own assumptions - Labour end up with 22-28 seats and the Lib Dems get 11-16, with the overall outcome being a 99.9% chance of a Labour majority.
+
+So, finally, here is an "optimistic Conservative" scenario, in which the Tory footsoldiers, energised by Nick Clarke's inspiring leadership, suddenly start mounting a strenuous challenge across the city after years of electoral disappointment. Here's the input:
+
+In this scenario the Conservative forces are pushing back the yellow peril in Trumpington, Queen Edith's, and the student wards, and also challenging Labour in their heartlands. Well, except Romsey. There are limits.
+
+Here are the seat predictions:
+
+The Conservatives still come in third, with 3-11 seats; the Lib Dems get 10-15 and Labour are winners with 18-24. Labour are still likely to win control:
+
+The main reason that the Conservatives are still only third in this scenario is that two-thirds of the Council was elected in previous years. Local politics is a long-term game.
+
+http://philrodgers.wordpress.com/2013/05/05/the-prospects-for-the-2014-cambridge-city-council-elections/
+
+https://github.com/pjr11/camelect/blob/master/camelect.js

@@ -1,7 +1,0 @@
-Modelling the Cambridge City Council elections
-
-In a few weeks, Cambridge voters will be going to the polls for the European Parliament elections, and also to elect one-third of the councillors on the City Council. I'll be looking at the European elections in a future post, but in this article I'm attempting the tricky business of predicting what's going to happen in the council elections.
-
-Because the City Council is elected by thirds, we already know the composition of two-thirds of the next Council.
-
-So as I've been saying for some time, it looks almost certain that the Lib Dems will finally lose control of the City Council this year, and very likely that Labour will get overall control. But what chance do the Lib Dems have of avoiding the electoral tsunami that seems poised to sweep them from office? To try to answer that question, I've made a probability model of this year's elections, to get an idea of the range of possible outcomes.

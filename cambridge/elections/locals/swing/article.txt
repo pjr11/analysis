@@ -1,0 +1,26 @@
+Swing in Cambridge local elections
+
+A few weeks ago I published an article that used a probability model to try to predict the range of likely outcomes in this year's Cambridge local elections. As a couple of people pointed out, this model is mathematically a bit dubious because it treats the elections in each of the 14 Cambridge seats as independent events, whereas in fact they're not really independent at all. In particular, you would expect some amount of "swing" in the vote to be consistent across the whole city, reflecting both the local and national political situation. And, well, yes, this is a perfectly valid point - which means that the actual range of likely outcomes will be a bit wider than the model predicts. This gives the Lib Dems a slightly better chance of depriving Labour of outright control at Thursday's elections, though I think still it's very unlikely - and the chances of the Lib Dems hanging on to control themselves are still as close to zero as makes no difference.
+
+But just how consistent is the swing in different seats across the city? Thanks to Colin Rosenstiel's indefatigable collation of Cambridge local election results, we can have a look at the data and find out. First of all, here's a graph showing the overall swing between Labour and the Lib Dems over the last ten years:
+
+
+As you can see, after a small Lib Dem advance in 2004 and 2005, the vote swung back to Labour a bit as the effect of the Iraq War faded. Then in 2009 during Gordon Brown's government and the economic crisis, the Lib Dems advanced again. Things pretty much stood still in 2010, the year of the last General Election, but after the formation of the Coalition at Westminster there was a dramatic shift to Labour in 2011 and 2012. Finally in 2013, the Lib Dems regained some ground.
+
+It's worth pausing at this point to explain exactly what I mean by swing. It's simply a measure of how many people are switching alliegance from one party to another. So for example, imagine that this year in Coleridge ward, Labour get 45% of the vote and Puffles the dragon fairy gets 10% (with other parties getting the rest) and next year, Puffles storms to victory with 40% of the vote against Labour's 25%. Puffles has gone up 30% and Labour have gone down 20%. The swing is the average of these two numbers, so we say the swing from Labour to Puffles is 25%.
+
+So just how uniform is the swing in different seats within the city? Let's have a look at the last few local elections and find out. Firstly, here's the graph for the local elections in 2010, which were held on the same day as the General Election. Here we're looking at the swing between Labour and the Lib Dems, who are the two main parties in Cambridge local politics.
+
+The Lib Dems advanced considerably in Abbey, Cherry Hinton and Coleridge, and a little in Queen Edith's, while losing ground to Labour in the rest of the city, most notably in Queen Edith's. Why the difference? The main reason is that the General Election was held on the same day. As well as roughly doubling the turnout, this meant that the Lib Dems were campaigning for Julian Huppert across the whole city, boosting their vote in seats that they normally put little effort into. Conversely, Queen Edith's saw less campaigning, being the one Cambridge ward not included in the Cambridge Westminster constituency.
+
+The picture was very different in 2011, with large swings to Labour in every seat in the city. By this time the Lib Dems were a year into the Coalition, had reneged on their tuition fees pledge, and were languishing in the polls nationally.
+
+While the Lib Dems lost ground in every seat, there was quite a lot of variation across the city. Some of the biggest swings to Labour were in Abbey, Cherry Hinton and Coleridge, as the effect of Lib Dem campaigning in 2010 unwound. The biggest swing of all was in Petersfield, which is Labour's heartland in Cambridge - at one time they had more party members there than the Lib Dems did in the entire city, though I'm not sure this is still the case. It's also worth noting that the Lib Dems didn't seem to do worse in the student wards, Castle, Market and Newnham, despite the tuition fees controversy.
+
+In 2012 there was a further overall swing to Labour, though the Lib Dems did manage to stem the tide in a few seats, most notably in Romsey. Meanwhile Labour did particularly well in Arbury, probably due to Mike Todd-Jones's personal vote, and Queen Edith's, where a strong campaign won them the seat for the first time.
+
+In 2013, however, the Lib Dems staged something of a recovery:
+
+The result that leaps out of this chart is East Chesterton, where Lib Dem Ian Manning recorded a 19.8% swing from Labour to hold his seat comfortably. The Lib Dems also recovered in Castle, where they had made little effort the previous year, but largely abandoned King's Hedges, which saw a further swing to Labour.
+
+What can we conclude overall? There are certainly common factors that affect all the wards in the city, as we saw most clearly in 2011, but local campaigning can make a huge difference too - just look at the difference between East Chesterton and neighbouring Kings Hedges last year. It's too soon to say what the picture will be this year - but we'll know soon enough. The results are expected in the early hours of Friday morning.

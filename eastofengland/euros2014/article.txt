@@ -1,0 +1,11 @@
+The European Elections in the East of England
+
+When voters from Cambridge go to the polls on Thursday, along with their City Council ballot paper they will also be handed a rather larger ballot paper listing the seventy candidates standing for the European Parliament in the East of England. Ten parties are each putting forward candidates for the seven seats being contested in the region. As well as the usual suspects (Conservatives, Green, Labour, Lib Dems and UKIP) voters will be able to choose from the BNP, the Christian Peoples Alliance, the English Democrats, no2eu (a left-wing eurosceptic grouping), and the cunningly-named An Independence from Europe, which will have the alphabetic advantage of appearing at the top of the ballot paper, and may benefit from people mistaking it for UKIP. Individual candidates are also able to stand in the European Elections, but there aren't any in the East of England this time, so voters will be asked to simply put an X against one of the party lists.
+
+The seats are allocated to the different parties using a form of proportional representation, first described by a famous Belgian, Victor D'Hondt, in 1878. His "système pratique et raisonné de représentation proportionnelle" basically gives parties different numbers of seats in proportion to their share of the vote - Wikipedia has a fairly good article about it. The exact details of the D'Hondt method are likely to be of nail-biting interest to some of the candidates as the votes are counted on Sunday evening, so it's worth having a look at some possible outcomes.
+
+First of all, here's how the East of England voted at the last European elections in 2009:
+
+The D'Hondt distribution produced the following number of seats:
+
+So what's likely to happen this time?

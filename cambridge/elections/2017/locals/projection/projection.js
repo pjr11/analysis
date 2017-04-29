@@ -156,7 +156,7 @@ const makeCSV = () => {
   const toYear = 2016;
   const divisions = Object.keys(mapping);
   const projections = makeProjections();
-  const lines = [];
+  const lines = ['Division,Party,2012,2013,2014,2015,2016'];
 
   divisions.forEach(division => {
     const parties = allPartiesStanding(projections, division);

@@ -1,5 +1,9 @@
 var fs = require('fs');
 
+// This code reads in the actual local election results for
+// 2012-2016, and produces projected results for the new
+// boundaries.
+
 // Data is Ward,Party,2016,2015,2014,2013,2012
 
 

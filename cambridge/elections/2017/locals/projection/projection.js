@@ -2,6 +2,7 @@ var fs = require('fs');
 
 // Data is Ward,Party,2016,2015,2014,2013,2012
 
+
 const readData = () => {
   const file = fs.readFileSync('./results.csv', { encoding: 'utf8' });
   const lines = file.split('\n');

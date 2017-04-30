@@ -57,7 +57,8 @@ var mapping = {
     "Romsey": 1
   },
   "Trumpington": {
-    "Queen Edith's": 0.13
+    "Queen Edith's": 0.13,
+    "Trumpington": 0.67
   }
 };
 

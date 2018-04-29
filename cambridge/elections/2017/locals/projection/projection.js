@@ -58,7 +58,7 @@ var mapping = {
   },
   "Trumpington": {
     "Queen Edith's": 0.13,
-    "Trumpington": 0.67
+    "Trumpington": 0.66
   }
 };
 

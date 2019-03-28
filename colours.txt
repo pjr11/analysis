@@ -1,0 +1,5 @@
+Con #426ac7
+Green #50b547
+Lib Dem #fe7500
+Labour #d30000
+Ind #808080

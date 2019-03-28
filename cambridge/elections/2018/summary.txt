@@ -1,0 +1,16 @@
+Labour hold Abbey, Arbury, Cherry Hinton, Coleridge, East Chesterton (2), King's Hedges, Petersfield, Romsey
+Labour gain Trumpington from Lib Dems
+Lib Dems hold Newnham, Queen Edith's and West Chesterton
+Lib Dems gain Castle from Independent and Market from Labour
+
+Before:
+Labour 26
+Lib Dem 13
+Independent 2
+Green 1
+
+After:
+Labour 26
+Lib Dem 14
+Independent 1
+Green 1
